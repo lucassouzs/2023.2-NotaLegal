@@ -3,6 +3,11 @@
 ## Introdução
 Com a apresentação da disciplina, foi proposta uma ementa que descrevia o projeto, no qual tínhamos que selecionar um site para desenvolver o projeto de Interação Humano-Computador (IHC). Todos os membros do grupo contribuíram apresentando candidatos em potencial para avaliação, acompanhados de argumentos que respaldavam suas escolhas. Em seguida, realizamos uma reunião com o propósito de escolher um dos sites apresentados, conforme documentado [aqui](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/planejamento%20do%20projeto/lista-sites-avaliados.md), com o objetivo de chegar a um consenso. Nesse contexto, é possível examinar de forma mais detalhada as alternativas propostas pelos membros do grupo, levando em consideração que o site escolhido no final foi o Nota Legal.
 
+## Nota Legal
+<div align="center">
+
+</div>
+
 ## Critérios para escolha:
 
 - A **usabilidade** do site apresenta uma navegação confusa, tornando-o inviável para os usuários.
